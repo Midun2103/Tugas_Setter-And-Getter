@@ -1,5 +1,10 @@
 # Tugas_Setter-And-Getter
 
+#    NAMA    : MIDUN HAKIKI
+#    NIM     : 312210583
+#    KELAS   : 22.TI.B1
+#    MATKUL  : PEMROGRAMAN ORIENTASI OBJEK 
+
 using System;  
 using System.Collections.Generic;  
 using System.Linq;  
